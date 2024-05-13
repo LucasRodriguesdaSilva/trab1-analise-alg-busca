@@ -256,16 +256,16 @@ peak = peak / 10**6
     <tbody>
         <tr>
             <td>
-                <img src='../Trabalho-Esquenta/mediaExecucao/img/o/Busca Linear v1_o.png' width="350" height="250">
+                <img src='./mediaExecucao/img/o/Busca Linear v1_o.png' width="350" height="250">
             </td>
             <td>
-                <img src='../Trabalho-Esquenta/mediaExecucao/img/o/Busca Linear v2_o.png' width="350" height="250">
+                <img src='./mediaExecucao/img/o/Busca Linear v2_o.png' width="350" height="250">
             </td>
             <td>
-                <img src='../Trabalho-Esquenta/mediaExecucao/img/no/Busca Linear v1_no.png' width="350" height="250">
+                <img src='./mediaExecucao/img/no/Busca Linear v1_no.png' width="350" height="250">
             </td>
             <td>
-                <img src='../Trabalho-Esquenta/mediaExecucao/img/no/Busca Linear v2_no.png' width="350" height="250">
+                <img src='./mediaExecucao/img/no/Busca Linear v2_no.png' width="350" height="250">
             </td>
         </tr>
     </tbody>
@@ -291,16 +291,16 @@ peak = peak / 10**6
     <tbody>
         <tr>
             <td>
-                <img src='../Trabalho-Esquenta/mediaMemoria/img/o/Busca Linear v1_O.png' width="350" height="250">
+                <img src='./mediaMemoria/img/o/Busca Linear v1_O.png' width="350" height="250">
             </td>
             <td>
-                <img src='../Trabalho-Esquenta/mediaMemoria/img/o/Busca Linear v2_O.png' width="350" height="250">
+                <img src='./mediaMemoria/img/o/Busca Linear v2_O.png' width="350" height="250">
             </td>
             <td>
-                <img src='../Trabalho-Esquenta/mediaMemoria/img/no/Busca Linear v1_NO.png' width="350" height="250">
+                <img src='./mediaMemoria/img/no/Busca Linear v1_NO.png' width="350" height="250">
             </td>
             <td>
-                <img src='../Trabalho-Esquenta/mediaMemoria/img/no/Busca Linear v2_NO.png' width="350" height="250">
+                <img src='./mediaMemoria/img/no/Busca Linear v2_NO.png' width="350" height="250">
             </td>
         </tr>
     </tbody>
@@ -348,16 +348,16 @@ peak = peak / 10**6
     <tbody>
         <tr>
             <td>
-                <img src='../Trabalho-Esquenta/buscaBinaria/output/c/100000000/lista_ordenada/1/imagens/tempo_execucao.png' width="350" height="250">
+                <img src='./buscaBinaria/output/c/100000000/lista_ordenada/1/imagens/tempo_execucao.png' width="350" height="250">
             </td>
             <td>
-                <img src='../Trabalho-Esquenta/buscaBinaria/output/c/100000000/lista_ordenada/100000000/imagens/tempo_execucao.png' width="350" height="250">
+                <img src='./buscaBinaria/output/c/100000000/lista_ordenada/100000000/imagens/tempo_execucao.png' width="350" height="250">
             </td>
             <td>
-                <img src='../Trabalho-Esquenta/buscaBinaria/output/c/100000000/lista_ordenada/60489/imagens/tempo_execucao.png' width="350" height="250">
+                <img src='./buscaBinaria/output/c/100000000/lista_ordenada/60489/imagens/tempo_execucao.png' width="350" height="250">
             </td>
             <td>
-                <img src='../Trabalho-Esquenta/mediaExecucao/img/o/Busca Binária_o.png' width="350" height="250">
+                <img src='./mediaExecucao/img/o/Busca Binária_o.png' width="350" height="250">
             </td>
         </tr>
     </tbody>
@@ -383,16 +383,16 @@ peak = peak / 10**6
     <tbody>
         <tr>
             <td>
-                <img src='../Trabalho-Esquenta/buscaBinaria/output/c/100000000/lista_ordenada/1/imagens/uso_memoria.png' width="350" height="250">
+                <img src='./buscaBinaria/output/c/100000000/lista_ordenada/1/imagens/uso_memoria.png' width="350" height="250">
             </td>
             <td>
-                <img src='../Trabalho-Esquenta/buscaBinaria/output/c/100000000/lista_ordenada/100000000/imagens/uso_memoria.png' width="350" height="250">
+                <img src='./buscaBinaria/output/c/100000000/lista_ordenada/100000000/imagens/uso_memoria.png' width="350" height="250">
             </td>
             <td>
-                <img src='../Trabalho-Esquenta/buscaBinaria/output/c/100000000/lista_ordenada/60489/imagens/uso_memoria.png' width="350" height="250">
+                <img src='./buscaBinaria/output/c/100000000/lista_ordenada/60489/imagens/uso_memoria.png' width="350" height="250">
             </td>
             <td>
-                <img src='../Trabalho-Esquenta/mediaMemoria/img/o/Busca Binária_O.png' width="350" height="250">
+                <img src='./mediaMemoria/img/o/Busca Binária_O.png' width="350" height="250">
             </td>
         </tr>
     </tbody>
@@ -438,13 +438,13 @@ peak = peak / 10**6
     <tbody>
         <tr>
             <td>
-                <img src='../Trabalho-Esquenta/buscaQuadratica/output/d/100000000/lista_nao_ordenada/58212016/imagens/tempo_execucao.png' width="350" height="250">
+                <img src='./buscaQuadratica/output/d/100000000/lista_nao_ordenada/58212016/imagens/tempo_execucao.png' width="350" height="250">
             </td>
             <td>
-                <img src='../Trabalho-Esquenta/buscaQuadratica/output/d/100000000/lista_nao_ordenada/34306736/imagens/tempo_execucao.png' width="350" height="250">
+                <img src='./buscaQuadratica/output/d/100000000/lista_nao_ordenada/34306736/imagens/tempo_execucao.png' width="350" height="250">
             </td>
             <td>
-                <img src='../Trabalho-Esquenta/mediaExecucao/img/no/Busca Quadrática_no.png' width="350" height="250">
+                <img src='./mediaExecucao/img/no/Busca Quadrática_no.png' width="350" height="250">
             </td>
         </tr>
     </tbody>
@@ -469,13 +469,13 @@ peak = peak / 10**6
     <tbody>
         <tr>
             <td>
-                <img src='../Trabalho-Esquenta/buscaQuadratica/output/d/100000000/lista_nao_ordenada/58212016/imagens/uso_memoria.png' width="350" height="250">
+                <img src='./buscaQuadratica/output/d/100000000/lista_nao_ordenada/58212016/imagens/uso_memoria.png' width="350" height="250">
             </td>
             <td>
-                <img src='../Trabalho-Esquenta/buscaQuadratica/output/d/100000000/lista_nao_ordenada/58212016/imagens/uso_memoria.png' width="350" height="250">
+                <img src='./buscaQuadratica/output/d/100000000/lista_nao_ordenada/58212016/imagens/uso_memoria.png' width="350" height="250">
             </td>
             <td>
-                <img src='../Trabalho-Esquenta/mediaMemoria/img/no/Busca Quadrática_NO.png' width="350" height="250">
+                <img src='./mediaMemoria/img/no/Busca Quadrática_NO.png' width="350" height="250">
             </td>
         </tr>
     </tbody>
@@ -530,16 +530,16 @@ peak = peak / 10**6
     <tbody>
         <tr>
             <td>
-                <img src='../Trabalho-Esquenta/buscaTernaria/output/e/100000000/lista_ordenada/1/imagens/tempo_execucao.png' width="350" height="250">
+                <img src='./buscaTernaria/output/e/100000000/lista_ordenada/1/imagens/tempo_execucao.png' width="350" height="250">
             </td>
             <td>
-                <img src='../Trabalho-Esquenta/buscaTernaria/output/e/100000000/lista_ordenada/100000000/imagens/tempo_execucao.png' width="350" height="250">
+                <img src='./buscaTernaria/output/e/100000000/lista_ordenada/100000000/imagens/tempo_execucao.png' width="350" height="250">
             </td>
             <td>
-                <img src='../Trabalho-Esquenta/buscaTernaria/output/e/100000000/lista_ordenada/19583/imagens/tempo_execucao.png' width="350" height="250">
+                <img src='./buscaTernaria/output/e/100000000/lista_ordenada/19583/imagens/tempo_execucao.png' width="350" height="250">
             </td>
             <td>
-                <img src='../Trabalho-Esquenta/mediaExecucao/img/o/Busca Ternária_o.png' width="350" height="250">
+                <img src='./mediaExecucao/img/o/Busca Ternária_o.png' width="350" height="250">
             </td>
         </tr>
     </tbody>
@@ -565,16 +565,16 @@ peak = peak / 10**6
     <tbody>
         <tr>
             <td>
-                <img src='../Trabalho-Esquenta/buscaTernaria/output/e/100000000/lista_ordenada/1/imagens/uso_memoria.png' width="350" height="250">
+                <img src='./buscaTernaria/output/e/100000000/lista_ordenada/1/imagens/uso_memoria.png' width="350" height="250">
             </td>
             <td>
-                <img src='../Trabalho-Esquenta/buscaTernaria/output/e/100000000/lista_ordenada/100000000/imagens/uso_memoria.png' width="350" height="250">
+                <img src='./buscaTernaria/output/e/100000000/lista_ordenada/100000000/imagens/uso_memoria.png' width="350" height="250">
             </td>
             <td>
-                <img src='../Trabalho-Esquenta/buscaTernaria/output/e/100000000/lista_ordenada/19583/imagens/uso_memoria.png' width="350" height="250">
+                <img src='./buscaTernaria/output/e/100000000/lista_ordenada/19583/imagens/uso_memoria.png' width="350" height="250">
             </td>
             <td>
-                <img src='../Trabalho-Esquenta/mediaMemoria/img/o/Busca Ternária_O.png' width="350" height="250">
+                <img src='./mediaMemoria/img/o/Busca Ternária_O.png' width="350" height="250">
             </td>
         </tr>
     </tbody>
@@ -616,10 +616,10 @@ peak = peak / 10**6
     <tbody>
         <tr>
             <td>
-                <img src='../Trabalho-Esquenta/buscaCubica/output/f/100000000/lista_nao_ordenada/34306736/imagens/tempo_execucao.png' width="350" height="250">
+                <img src='./buscaCubica/output/f/100000000/lista_nao_ordenada/34306736/imagens/tempo_execucao.png' width="350" height="250">
             </td>
             <td>
-                <img src='../Trabalho-Esquenta/mediaExecucao/img/no/Busca Cúbica_no.png' width="350" height="250">
+                <img src='./mediaExecucao/img/no/Busca Cúbica_no.png' width="350" height="250">
             </td>
         </tr>
     </tbody>
@@ -643,10 +643,10 @@ peak = peak / 10**6
     <tbody>
         <tr>
             <td>
-                <img src='../Trabalho-Esquenta/buscaCubica/output/f/100000000/lista_nao_ordenada/34306736/imagens/uso_memoria.png' width="350" height="250">
+                <img src='./buscaCubica/output/f/100000000/lista_nao_ordenada/34306736/imagens/uso_memoria.png' width="350" height="250">
             </td>
             <td>
-                <img src='../Trabalho-Esquenta/mediaMemoria/img/no/Busca Cúbica_NO.png' width="350" height="250">
+                <img src='./mediaMemoria/img/no/Busca Cúbica_NO.png' width="350" height="250">
             </td>
         </tr>
     </tbody>
@@ -743,10 +743,10 @@ peak = peak / 10**6
     <tbody>
         <tr>
             <td>
-                <img src='../Trabalho-Esquenta/mediaExecucao/execucao_mediaGeral.png' width="350" height="250">
+                <img src='./mediaExecucao/execucao_mediaGeral.png' width="350" height="250">
             </td>
             <td>
-                <img src='../Trabalho-Esquenta/mediaMemoria/memoria_mediaGeral.png' width="350" height="250">
+                <img src='./mediaMemoria/memoria_mediaGeral.png' width="350" height="250">
             </td>
         </tr>
     </tbody>
